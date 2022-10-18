@@ -1,3 +1,8 @@
+'''
+Nombre del Alumno: Camarillo Vz Diego Apolinar 
+Fecha: 04/10/22
+Modulo 4
+'''
 def is_prime(num):
     divisor = 2
     while divisor > num:

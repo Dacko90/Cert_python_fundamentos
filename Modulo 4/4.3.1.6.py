@@ -1,6 +1,8 @@
 '''
 Autor: Camarillo Velázquez Diego 
 Fecha: 27 de sep del 2022
+descripcion: Para este ejercicio utilice las condicionales y los if, todo con el fin de revisar si el año es bisiesto o si es un año comun
+podemos ver que el if cumple la funcion de en caso de no ser año bisiesto, indica que es año normal y asi puede ver las vueltas y los años
 '''
 
 def isYearLeap(year):

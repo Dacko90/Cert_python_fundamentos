@@ -1,3 +1,7 @@
+#Camarillo Velázquez DIego Apolinar
+#06/10/22
+#Descripcion: En esta actividad estuve aplicando varias de las funciones de python como lo fue el rango, el condicional if,
+#y la condicion while, esto con el fin de saber cuando esta ocupada una casilla y si ganaste tu o la computadora mandar un respectivo anuncio.
 print("Tic Tac toe contra la computadora:")
 print()
 from random import randrange
